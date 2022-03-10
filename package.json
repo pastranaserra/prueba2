@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pastranaserra/prueba2/issues"
   },
-  "homepage": "https://github.com/pastranaserra/prueba2#readme"
+  "homepage": "https://github.com/pastranaserra/prueba2#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
